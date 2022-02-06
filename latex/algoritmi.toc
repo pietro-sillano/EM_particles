@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Introduzione}{1}{}%
+\contentsline {section}{\numberline {2}Scelta dell'integratore numerico}{3}{}%
+\contentsline {section}{\numberline {3}Singola particella e B}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Velocit\`a parallela}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Velocit\`a perpendicolare}{3}{}%
+\contentsline {subsection}{\numberline {3.3}Confronto RK2, RK4 e Boris Pusher}{4}{}%
+\contentsline {section}{\numberline {4}ExB Drift}{5}{}%
+\contentsline {subsection}{\numberline {4.1}Soluzione analitica}{5}{}%
+\contentsline {subsection}{\numberline {4.2}Convergenza degli integratori}{7}{}%
+\contentsline {subsection}{\numberline {4.3}Soluzione Numerica}{8}{}%
+\contentsline {section}{\numberline {5}Particelle in prossimit\`a di un punto a X}{8}{}%
+\contentsline {section}{\numberline {6}Conclusioni}{9}{}%
+\contentsline {section}{Appendices}{10}{}%
+\contentsline {subsection}{\numberline {.1}Boris Pusher Algorithm}{10}{}%
+\contentsline {subsection}{\numberline {.2}Implementazione singola particella}{10}{}%
+\contentsline {subsection}{\numberline {.3}Implementazione ExB Drift}{16}{}%
+\contentsline {subsection}{\numberline {.4}Implementazione 10k particelle}{20}{}%

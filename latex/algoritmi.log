@@ -1,0 +1,553 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/Arch Linux) (preloaded format=xelatex 2022.1.2)  3 FEB 2022 18:50
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**algoritmi.tex
+(./algoritmi.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(/usr/share/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks16
+\ex@=\dimen139
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen140
+)
+(/usr/share/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count187
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count188
+\leftroot@=\count189
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count190
+\DOTSCASE@=\count191
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box50
+\strutbox@=\box51
+\big@size=\dimen141
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count192
+\c@MaxMatrixCols=\count193
+\dotsspace@=\muskip16
+\c@parentequation=\count194
+\dspbrk@lvl=\count195
+\tag@help=\toks17
+\row@=\count196
+\column@=\count197
+\maxfields@=\count198
+\andhelp@=\toks18
+\eqnshift@=\dimen142
+\alignsep@=\dimen143
+\tagshift@=\dimen144
+\tagwidth@=\dimen145
+\totwidth@=\dimen146
+\lineht@=\dimen147
+\@envbody=\toks19
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks20
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(/usr/share/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texmf-dist/tex/latex/amsmath/amscd.sty
+Package: amscd 2017/04/14 v2.1 AMS Commutative Diagrams
+\athelp@=\toks21
+\minaw@=\dimen148
+\bigaw@=\dimen149
+\minCDarrowwidth=\dimen150
+)
+(/usr/share/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2020/05/29 v2.20.6
+\thm@style=\toks22
+\thm@bodyfont=\toks23
+\thm@headfont=\toks24
+\thm@notefont=\toks25
+\thm@headpunct=\toks26
+\thm@preskip=\skip52
+\thm@postskip=\skip53
+\thm@headsep=\skip54
+\dth@everypar=\toks27
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks28
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(/usr/share/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(/usr/share/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(/usr/share/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen153
+\captionmargin@=\dimen154
+\captionwidth=\dimen155
+\caption@tempdima=\dimen156
+\caption@indent=\dimen157
+\caption@parindent=\dimen158
+\caption@hangindent=\dimen159
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count199
+\c@continuedfloat=\count266
+)
+\c@subfigure=\count267
+\c@subtable=\count268
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count269
+\lst@gtempboxa=\box52
+\lst@token=\toks29
+\lst@length=\count270
+\lst@currlwidth=\dimen160
+\lst@column=\count271
+\lst@pos=\count272
+\lst@lostspace=\dimen161
+\lst@width=\dimen162
+\lst@newlines=\count273
+\lst@lineno=\count274
+\lst@maxwidth=\dimen163
+
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count275
+\lst@skipnumbers=\count276
+\lst@framebox=\box53
+)
+(/usr/share/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+
+(/usr/share/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2021/12/07 v1.3c Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 149.
+)
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2021/12/10 v3.0b Micro-typographical refinements (RS)
+
+(/usr/share/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count277
+)
+\MT@toks=\toks30
+\MT@count=\count278
+\MT@tempbox=\box54
+LaTeX Info: Redefining \leftprotrusion on input line 1010.
+LaTeX Info: Redefining \rightprotrusion on input line 1018.
+LaTeX Info: Redefining \textls on input line 1173.
+\MT@outer@kern=\dimen164
+LaTeX Info: Redefining \textmicrotypecontext on input line 1759.
+\MT@listname@count=\count279
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype-xetex.def
+File: microtype-xetex.def 2021/12/10 v3.0b Definitions specific to xetex (RS)
+LaTeX Info: Redefining \lsstyle on input line 234.
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(/usr/share/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2021/12/10 v3.0b microtype main configuration file (RS)
+))
+(/usr/share/texmf-dist/tex/latex/imakeidx/imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+(/usr/share/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks31
+\XKV@tempa@toks=\toks32
+)
+\XKV@depth=\count280
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+
+(/usr/share/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+(/usr/share/texmf-dist/tex/generic/iftex/ifluatex.sty
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)
+(/usr/share/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2021/10/28 v1.9b multicolumn formatting (FMi)
+\c@tracingmulticols=\count281
+\mult@box=\box55
+\multicol@leftmargin=\dimen165
+\c@unbalance=\count282
+\c@collectmore=\count283
+\doublecol@number=\count284
+\multicoltolerance=\count285
+\multicolpretolerance=\count286
+\full@width=\dimen166
+\page@free=\dimen167
+\premulticols=\dimen168
+\postmulticols=\dimen169
+\multicolsep=\skip55
+\multicolbaselineskip=\skip56
+\partial@page=\box56
+\last@line=\box57
+\maxbalancingoverflow=\dimen170
+\mult@rightbox=\box58
+\mult@grightbox=\box59
+\mult@firstbox=\box60
+\mult@gfirstbox=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\c@minrows=\count287
+\c@columnbadness=\count288
+\c@finalcolumnbadness=\count289
+\last@try=\dimen171
+\multicolovershoot=\dimen172
+\multicolundershoot=\dimen173
+\mult@nat@firstbox=\box98
+\colbreak@box=\box99
+\mc@col@check@num=\count290
+))
+(/usr/share/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2020/02/08 v1.2c extra appendix facilities
+\c@@pps=\count291
+\c@@ppsavesec=\count292
+\c@@ppsaveapp=\count293
+)
+\algoritmi@idxfile=\write3
+\openout3 = `algoritmi.idx'.
+
+
+Writing index file algoritmi.idx
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-12-14 L3 backend support: XeTeX
+
+(|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count294
+\l__color_backend_stack_int=\count295
+\g__color_backend_stack_int=\count296
+\g__graphics_track_int=\count297
+\l__pdf_internal_box=\box100
+\g__pdf_backend_object_int=\count298
+\g__pdf_backend_annotation_int=\count299
+\g__pdf_backend_link_int=\count300
+) (./algoritmi.aux)
+\openout1 = `algoritmi.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 3
+1.
+
+(/usr/share/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count301
+LaTeX Info: Redefining \microtypecontext on input line 31.
+Package microtype Info: Applying patch `item' on input line 31.
+Package microtype Info: Applying patch `toc' on input line 31.
+Package microtype Info: Applying patch `eqnum' on input line 31.
+Package microtype Info: Applying patch `footnote' on input line 31.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of spacing.
+Package microtype Info: No adjustment of kerning.
+
+(/usr/share/texmf-dist/tex/latex/microtype/mt-LatinModernRoman.cfg
+File: mt-LatinModernRoman.cfg 2021/02/21 v1.1 microtype config. file: Latin Mod
+ern Roman (RS)
+)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 33.
+
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 33.
+
+
+(/usr/share/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(/usr/share/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+) (./algoritmi.toc)
+\tf@toc=\write4
+\openout4 = `algoritmi.toc'.
+
+
+[1
+
+] [2] [3]
+File: img/3dposizione.png Graphic file (type bmp)
+<img/3dposizione.png>
+File: img/tempovelocitá.png Graphic file (type bmp)
+<img/tempovelocitá.png>
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 121--133
+[]$[]$ $[]$ 
+ []
+
+File: ./img/confronto_traiettorie.png Graphic file (type bmp)
+<./img/confronto_traiettorie.png>
+File: ./img/erroreE.png Graphic file (type bmp)
+<./img/erroreE.png>
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 139--151
+[]$[]$ $[]$ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--155
+
+ []
+
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 208--212
+
+ []
+
+[6]
+File: img/convergenza.png Graphic file (type bmp)
+<img/convergenza.png>
+ [7]
+File: img/3dposizionedrift.png Graphic file (type bmp)
+<img/3dposizionedrift.png>
+File: img/energia.png Graphic file (type bmp)
+<img/energia.png>
+
+Overfull \hbox (2.4309pt too wide) in paragraph at lines 237--249
+[]$[]$ $[]$ 
+ []
+
+[8]
+File: img/energy_70.png Graphic file (type bmp)
+<img/energy_70.png>
+File: img/energy_120.png Graphic file (type bmp)
+<img/energy_120.png>
+File: img/energy_160.png Graphic file (type bmp)
+<img/energy_160.png>
+File: img/distrib_70.png Graphic file (type bmp)
+<img/distrib_70.png>
+File: img/distrib_120.png Graphic file (type bmp)
+<img/distrib_120.png>
+File: img/distrib_160.png Graphic file (type bmp)
+<img/distrib_160.png>
+ (./appendice.tex [9] (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (/usr/share/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+)
+(/usr/share/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+) (../caso1/case1_new.cpp
+[10] [11]
+Overfull \hbox (399.79207pt too wide) in paragraph at lines 61--62
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (399.79207pt too wide) in paragraph at lines 79--80
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[12]
+Overfull \hbox (399.79207pt too wide) in paragraph at lines 97--99
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.72899pt too wide) in paragraph at lines 106--107
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (71.28941pt too wide) in paragraph at lines 107--109
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[13] [14] [15]) (../caso2/case2.cpp [16]
+Overfull \hbox (386.65196pt too wide) in paragraph at lines 69--70
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[17] [18] [19]) (../caso3/borismod.cpp [20]
+Overfull \hbox (31.8691pt too wide) in paragraph at lines 24--25
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[21]
+Overfull \hbox (603.46371pt too wide) in paragraph at lines 63--64
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][]
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (38.43915pt too wide) in paragraph at lines 81--83
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[22] [23])) [24] (./algoritmi.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 8084 strings out of 476257
+ 134421 string characters out of 5816920
+ 712785 words of memory out of 5000000
+ 28601 multiletter control sequences out of 15000+600000
+ 410640 words of font info for 65 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 67i,8n,102p,1006b,1823s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on algoritmi.pdf (24 pages).
