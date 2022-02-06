@@ -30,10 +30,10 @@
 *.exe
 *.out
 *.app
-./scripts/xpoint
-./scripts/ExBdrift
-./scripts/convergence
-./scripts/gyration_particle
+scripts/xpoint
+scripts/ExBdrift
+scripts/convergence
+scripts/gyration_particle
 
 
 
