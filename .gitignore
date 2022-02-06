@@ -30,6 +30,11 @@
 *.exe
 *.out
 *.app
+./scripts/xpoint
+./scripts/ExBdrift
+./scripts/convergence
+./scripts/gyration_particle
+
 
 
 # data
