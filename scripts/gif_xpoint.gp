@@ -25,7 +25,7 @@ data='../data/xpoint.dat'
 
 
 set terminal gif animate delay 10
-set output '../plot/3dposition.gif'
+set output '../plot/xpoint_3dposition.gif'
 set xrange [-2000:2000]
 set yrange [-2000:2000]
 set zrange [0:100]
@@ -40,7 +40,7 @@ do for [i=0:99] {
 
 reset
 set terminal gif animate delay 10
-set output '../plot/energy.gif'
+set output '../plot/xpoint_energy.gif'
 set key off
 set xrange [-1100:1100]
 set yrange [0:70]

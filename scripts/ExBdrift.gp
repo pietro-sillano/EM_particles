@@ -25,7 +25,7 @@ file="../data/ExBdrift.dat"
 
 
 reset
-set output '../plot/3dposizionedrift.png'
+set output '../plot/ExBdrift_3d_position.png'
 set key off
 set xlabel "x "
 set ylabel "y "
@@ -43,7 +43,7 @@ splot file using 2:3:4 with lines lc rgb "blue"
 
 
 reset
-set output '../plot/energia.png'
+set output '../plot/ExBdrift_energy.png'
 set xrange [0:40]
 set yrange [0:3]
 set grid

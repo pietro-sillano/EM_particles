@@ -19,7 +19,7 @@ set terminal pngcairo size wpx,hpx fontscale ptscale linewidth ptscale pointscal
 
 file="../data/convergence.dat"
 
-set output '../plot/convergenza.png'
+set output '../plot/convergence.png'
 set xlabel "dt"
 set ylabel "Errore"
 # set yrange [1e-17:100]

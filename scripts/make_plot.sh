@@ -13,5 +13,5 @@ echo "Plotting xpoint.gp"
 gnuplot xpoint.gp
 
 echo "Plotting gif_maker.gp"
-gnuplot gif_maker.gp
+gnuplot gif_xpoint.gp
 

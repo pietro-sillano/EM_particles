@@ -24,7 +24,7 @@ set terminal pngcairo size wpx,hpx fontscale ptscale linewidth ptscale pointscal
 file="../data/gyration_particle.dat"
 
 
-set output '../plot/erroreE.png'
+set output '../plot/gyration_particle_energy_error.png'
 set xlabel "Tempo"
 set ylabel "Fluttuazione Relativa Energia"
 set yrange [1e-17:100]
@@ -40,7 +40,7 @@ file using 1:8 index 2 with lines lc rgb "blue" title 'Boris Pusher'
 
 
 reset
-set output '../plot/confronto_traiettorie.png'
+set output '../plot/gyration_particle_trajectories.png'
 set xlabel "x "
 set ylabel "y "
 set xrange [-5:5]
@@ -56,7 +56,7 @@ file using 2:3 index 1 with lines lc rgb "green" title 'RK4',\
 
 
 reset
-set output '../plot/tempovelocitá.png'
+set output '../plot/gyration_particle_velocity.png'
 # set key off
 set xlabel "t"
 set ylabel "v"
@@ -71,7 +71,7 @@ file using 1:7 index 2 with lines lc rgb "red" title 'V_z'
 
 
 reset
-set output '../plot/3dposizione.png'
+set output '../plot/gyration_particle_3d_position.png'
 set key off
 set xlabel "x "
 set ylabel "y "
